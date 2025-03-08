@@ -43,4 +43,4 @@
 Для работы с проектом потребуется **Python 3.x** и следующие библиотеки:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn scipy xgboost lightgbm catboost shap phik
+pip install pandas numpy matplotlib seaborn scikit-learn
